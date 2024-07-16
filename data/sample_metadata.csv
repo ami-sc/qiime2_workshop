@@ -1,0 +1,4 @@
+id,name,time,treatment
+A1,Sample A,0 Days,Control
+B1,Sample B,10 Days,Infected
+C1,Sample C,20 Days,Mock

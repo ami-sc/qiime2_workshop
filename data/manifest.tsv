@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+A1	$HOME/qiime2_workshop/data/A1/A1.raw_1.fastq.gz	$HOME/qiime2_workshop/data/A1/A1.raw_2.fastq.gz
+B1	$HOME/qiime2_workshop/data/B1/B1.raw_1.fastq.gz	$HOME/qiime2_workshop/data/B1/B1.raw_2.fastq.gz
+C1	$HOME/qiime2_workshop/data/C1/C1.raw_1.fastq.gz	$HOME/qiime2_workshop/data/C1/C1.raw_2.fastq.gz
